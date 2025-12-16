@@ -26,8 +26,11 @@ The pipeline automates the ingestion of large taxi datasets, stores the raw data
 ## Project Members
 
 -AHMID Roudainna
+
 -AKLIL Lyna
+
 -BOULALI Djennat
+
 -LALLAOUI Warda 
 
 
