@@ -23,7 +23,7 @@ The pipeline automates the ingestion of large taxi datasets, stores the raw data
 
 ---
 
-## Project Members
+## Project Members (Group 3 AI)
 
 -AHMID Roudainna
 
