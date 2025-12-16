@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Airflow
+airflow/logs/
+airflow/airflow.db
+airflow/dags/__pycache__/
+
+# Docker
+docker-compose.override.yml
+*.env
+*.pid
+*.sock
+volumes/
+tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
